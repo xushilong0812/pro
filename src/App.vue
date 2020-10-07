@@ -1,6 +1,7 @@
 <template>
   <div id="app">
       <FootberNav/>
+      <router-view></router-view>
   </div>
 </template>
 <script>
